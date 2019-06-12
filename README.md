@@ -17,7 +17,6 @@ The following graphic shows the breakdown of the 'Machine Learning' branch of AI
 
 <img src='images/ml-hierarchy.png'>
 
-
 ## Machine Learning
 
 The field of _Machine Learning_ can be further divided into 2 overall categories:
